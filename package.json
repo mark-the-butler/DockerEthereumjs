@@ -1,0 +1,13 @@
+{
+    "name": "blockchain",
+    "version": "1.0.0",
+    "description": "Blockchain Tutorial",
+    "author": "Me",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.16.1"
+    }
+  }
